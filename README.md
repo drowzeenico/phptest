@@ -1,5 +1,7 @@
 # phptest
 
-1) php hooks.php "{([]{()[]})}"
+1) 35 минут
+php hooks.php "{([]{()[]})}"
 
-2) php table.php
+2)15 минут
+php table.php
