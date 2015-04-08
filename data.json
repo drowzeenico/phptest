@@ -1,0 +1,5 @@
+[
+	["String", "Number", "Color"],
+	["string 1", 1, "red"],
+	["string 2", 2, "blue"]
+]
